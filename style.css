@@ -20,9 +20,9 @@ body {
   background-color: var(--clr-light);
 }
 
-.container {
+.container,.container1,.container2,.container3 {
   width: 80%;
-  margin: 0 auto;
+  margin: 10px auto;
   border: 10px solid var(--clr-dark);
 }
 
